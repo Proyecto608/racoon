@@ -1,0 +1,5 @@
+<meta charset="utf-8"> para usar la ñ
+http://www.w3schools.com/tags/ pagina para ver etiquetas
+<!--Lo que sea--> poner notas en donde quiera
+ 
+
